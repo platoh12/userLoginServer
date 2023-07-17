@@ -1,0 +1,8 @@
+POST http://localhost:3000/api/register
+Content-Type: application/json
+
+{
+  "email": "tellasmagogwa2@gmail.com",
+  "phone": "+255626111280",
+  "password": "Obalola@God"
+}
